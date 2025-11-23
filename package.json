@@ -1,0 +1,12 @@
+{
+  "name": "nia-backend-openai",
+  "version": "1.0.0",
+  "main": "nia-backend-openai.js",
+  "scripts": {
+    "start": "node nia-backend-openai.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
